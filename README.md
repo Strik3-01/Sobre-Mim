@@ -15,4 +15,4 @@
 
 <br>Bem, esse sou eu, pelo menos uma parte de quem sou.
                                                                               
-                                                                              ASS: Admin
+                                                                              Ass: Admin

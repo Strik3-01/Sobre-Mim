@@ -14,3 +14,5 @@
 <br>Logo entro no Jovem Aprendiz e espero conseguir ir à uma empresa que esteja relacionada a esse mundo e assim que terminar o nono vem o ETIM, Ensino Técnico Integrado ao Ensino Médio, mas meu principal objetivo é a engenharia da computação no ITA,Instituto Tecnológico da Aeronaútica.
 
 <br>Bem, esse sou eu, pelo menos uma parte de quem sou.
+                                                                              
+                                                                              <br>ASS: Admin
